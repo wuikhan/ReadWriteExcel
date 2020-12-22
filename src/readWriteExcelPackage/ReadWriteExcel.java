@@ -43,6 +43,4 @@ public class ReadWriteExcel {
 		wb.close();
 		System.out.println("reading & writing complete");
 	}
-	
-	
 }
